@@ -1,0 +1,19 @@
+{
+  "name": "blend-lm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moddheswar",
+  "license": "ISC",
+  "description": "An Web-application that lets you use multiple llms with out lossing the memory.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moddheswar/Blend_LM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moddheswar/Blend_LM/issues"
+  },
+  "homepage": "https://github.com/moddheswar/Blend_LM#readme"
+}
